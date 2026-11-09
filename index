@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="ta">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>என் முதல் ெவப் ைசட் </title>
+<style>
+body { font-family: sans-serif; background: #0f766e; color: white;
+text-align: center; padding: 60px 20px; }
+h1 { font-size: 2em; }
+a { display: inline-block; margin-top: 20px; padding: 12px 24px;
+background: white; color: #0f766e; border-radius: 30px;
+text-decoration: none; font-weight: bold; }
+</style>
+</head>
+<body>
+<h1>வணக் கம் ! 👋</h1>
+<p>இது என் ேபான் ல உருவாக் கன முதல் ெவப் ைசட் .</p>
+<a href="https://wa.me/">WhatsApp-ல ேபசுங் க</a>
+</body>
+</html>
